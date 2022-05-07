@@ -25,7 +25,8 @@ public class Anagram {
                     break;
                 }
             }
-
+//the pblm is within the if loop. if the checking results in not anagram, then the last line "they are anagrams" also gets printed. dint know how to skip it.
+            //check with cheap peach, no error. if with link pink, the last line also gets printed.
             }
         System.out.println("They are Anagrams");
         }
